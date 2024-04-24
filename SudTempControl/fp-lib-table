@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name display_4x20)(type Legacy)(uri G:/AVR/Universal_TempSudControl/ext_lib/display_4x20.mod)(options "")(descr ""))
+)
